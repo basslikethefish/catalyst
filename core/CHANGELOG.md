@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.18.0
+
+### Minor Changes
+
+- [#1491](https://github.com/bigcommerce/catalyst/pull/1491) [`313a591`](https://github.com/bigcommerce/catalyst/commit/313a5913181a144b53cb12208132f4a9924e2256) Thanks [@jorgemoya](https://github.com/jorgemoya)! - Bump `next-intl` which includes [some minor changes and updated APIs](<(https://next-intl-docs.vercel.app/blog/next-intl-3-22)>):
+
+  - Use new `createNavigation` api.
+  - Pass `locale` to redirects.
+  - `setRequestLocale` is no longer unstable.
+
+### Patch Changes
+
+- [#1454](https://github.com/bigcommerce/catalyst/pull/1454) [`53599e6`](https://github.com/bigcommerce/catalyst/commit/53599e6e02988ab63d158c5c9f587669a5581402) Thanks [@bc-yevhenii-buliuk](https://github.com/bc-yevhenii-buliuk)! - remove unnecessary fields from create account form
+
+- [#1487](https://github.com/bigcommerce/catalyst/pull/1487) [`a22233f`](https://github.com/bigcommerce/catalyst/commit/a22233f8fc94c5ad602fa734cadbb892af34fe6b) Thanks [@bc-svc-local](https://github.com/bc-svc-local)! - Update translations.
+
 ## 0.17.1
 
 ### Patch Changes
